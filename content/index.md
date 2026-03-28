@@ -2,8 +2,7 @@
 title: Connecting Dots
 ---
 
-개발자의 디자이너 도전기
-디자인에 대해 공부하면서 배운 것과 깨달은 것을 씁니다
+개발자의 디자이너 도전기. 디자인에 대해 공부하면서 배운 것과 깨달은 것을 씁니다.
 
 ## Product Designer | 프로덕트 디자이너 부트캠프
 - [[BLOG/Design/Bootcamp/Learn|배운 것]]
